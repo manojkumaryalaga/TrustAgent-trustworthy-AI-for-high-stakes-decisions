@@ -1,14 +1,8 @@
-
-"""
-TrustAgent — Main Entry Point
-Run: python 10_run.py
-"""
 import os
 import matplotlib.pyplot as plt
 import pandas as pd
 from getpass import getpass
 from openai import OpenAI
-
 from config import CONFIG
 from data_loader import load_data, balance_sample, compute_stats
 from pipeline import TrustAgentPipeline
