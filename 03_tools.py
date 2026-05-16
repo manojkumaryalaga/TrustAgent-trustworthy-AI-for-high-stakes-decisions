@@ -1,4 +1,3 @@
-
 import json
 
 # Tool functions — called by the ReAct agent
