@@ -106,7 +106,7 @@ Evaluation sample: 500 transactions (250 fraud + 250 legit)
 
 ## Baseline Results (v0.1 — 10 investigations)
 
-> ⚠️ v0.1 baseline — 10 investigations. v0.2 scaling to 500 in progress.
+> v0.1 baseline — 10 investigations. v0.2 scaling to 500 in progress.
 
 | Metric | Value | Description |
 |--------|-------|-------------|
